@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">oooo</string>
+    <string name="todo">TODO</string>
+    <string name="name">Name</string>
+    <string name="pass">Password</string>
+    <string name="user">Username</string>
+    <string name="login">Login</string>
+    <string name="textview">TextView</string>
+    <string name="register_here">Register Here.</string>
+    <string name="click">click</string>
+</resources><!--//<string name="username">Username</string>-->
+    <!--//<string name="password">Password</string>-->
